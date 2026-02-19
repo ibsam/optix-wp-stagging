@@ -1,0 +1,71 @@
+<?php return array(
+    'root' => array(
+        'name' => 'affiliatewp/affiliatewp',
+        'pretty_version' => '1.0.0+no-version-set',
+        'version' => '1.0.0.0',
+        'reference' => null,
+        'type' => 'wordpress-plugin',
+        'install_path' => __DIR__ . '/../../',
+        'aliases' => array(),
+        'dev' => false,
+    ),
+    'versions' => array(
+        'affiliatewp/affiliatewp' => array(
+            'pretty_version' => '1.0.0+no-version-set',
+            'version' => '1.0.0.0',
+            'reference' => null,
+            'type' => 'wordpress-plugin',
+            'install_path' => __DIR__ . '/../../',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+        'composer/installers' => array(
+            'pretty_version' => 'v1.12.0',
+            'version' => '1.12.0.0',
+            'reference' => 'd20a64ed3c94748397ff5973488761b22f6d3f19',
+            'type' => 'composer-plugin',
+            'install_path' => __DIR__ . '/./installers',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+        'mnsami/composer-custom-directory-installer' => array(
+            'pretty_version' => '2.0.0',
+            'version' => '2.0.0.0',
+            'reference' => '85f66323978d0b1cb0e6acc7f69b3e7b912f82d9',
+            'type' => 'composer-plugin',
+            'install_path' => __DIR__ . '/../mnsami/composer-custom-directory-installer',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+        'parsecsv/php-parsecsv' => array(
+            'pretty_version' => '1.3.0',
+            'version' => '1.3.0.0',
+            'reference' => 'b444afae2f407537ae713f98a7a0c94e296918e6',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../../includes/libraries/parsecsv',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+        'roundcube/plugin-installer' => array(
+            'dev_requirement' => false,
+            'replaced' => array(
+                0 => '*',
+            ),
+        ),
+        'shama/baton' => array(
+            'dev_requirement' => false,
+            'replaced' => array(
+                0 => '*',
+            ),
+        ),
+        'stripe/stripe-php' => array(
+            'pretty_version' => 'v10.21.0',
+            'version' => '10.21.0.0',
+            'reference' => 'b4ab319731958077227fad1874a3671458c5d593',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../stripe/stripe-php',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+    ),
+);

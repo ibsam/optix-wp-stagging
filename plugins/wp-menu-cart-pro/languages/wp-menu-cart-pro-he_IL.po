@@ -1,0 +1,388 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Menu Cart\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-06-25 10:33+0200\n"
+"PO-Revision-Date: 2016-06-25 10:34+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: he_IL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: wp-menu-cart.php\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/class-wpmenucart-data.php:120
+#: includes/class-wpmenucart-settings.php:399
+#: includes/class-wpmenucart-settings.php:405
+#, php-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "פריט %d"
+msgstr[1] "פריטים %d"
+
+#: includes/class-wpmenucart-data.php:125
+#, php-format
+msgid "%d "
+msgid_plural "%d "
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-wpmenucart-data.php:264
+#: includes/class-wpmenucart-settings.php:365
+msgid "your cart is currently empty"
+msgstr ""
+
+#: includes/class-wpmenucart-data.php:275
+#: includes/class-wpmenucart-settings.php:349
+msgid "Start shopping"
+msgstr "התחל בקנייה"
+
+#: includes/class-wpmenucart-data.php:286
+#: includes/class-wpmenucart-settings.php:381
+msgid "View your shopping cart"
+msgstr "הצג את עגלת הקניות שלך"
+
+#: includes/class-wpmenucart-settings-callbacks.php:130
+msgid "Add menu"
+msgstr ""
+
+#: includes/class-wpmenucart-settings-callbacks.php:152
+msgid ""
+"<strong>Please note:</strong> you need to open your website in a new tab/"
+"browser window after updating the cart icon for the change to be visible!"
+msgstr ""
+
+#: includes/class-wpmenucart-settings.php:34
+#: includes/class-wpmenucart-settings.php:35
+msgid "Menu Cart Pro"
+msgstr ""
+
+#: includes/class-wpmenucart-settings.php:46
+msgid "Settings"
+msgstr "הגדרות"
+
+#: includes/class-wpmenucart-settings.php:54
+msgid "Main"
+msgstr ""
+
+#: includes/class-wpmenucart-settings.php:55
+msgid "Texts & Links"
+msgstr ""
+
+#: includes/class-wpmenucart-settings.php:56
+msgid "Advanced"
+msgstr ""
+
+#: includes/class-wpmenucart-settings.php:63
+msgid "WP Menu Cart"
+msgstr "‏WP Menu Cart"
+
+#: includes/class-wpmenucart-settings.php:109
+msgid "Main settings"
+msgstr ""
+
+#: includes/class-wpmenucart-settings.php:116
+msgid "E-commerce Plugin"
+msgstr ""
+
+#: includes/class-wpmenucart-settings.php:130
+msgid "Select the menu(s) in which you want to display the Menu Cart"
+msgstr "בחר את התפריט(ים) בהם תרצה להציג את Menu Cart"
+
+#: includes/class-wpmenucart-settings.php:142
+msgid "Always display cart"
+msgstr ""
+
+#: includes/class-wpmenucart-settings.php:155
+msgid "Use Flyout"
+msgstr ""
+
+#: includes/class-wpmenucart-settings.php:168
+msgid "Flyout item number"
+msgstr ""
+
+#: includes/class-wpmenucart-settings.php:176
+msgid "Unlimited"
+msgstr ""
+
+#: includes/class-wpmenucart-settings.php:194
+msgid "Display shopping cart icon."
+msgstr "הצג סמל של עגלת קניות."
+
+#: includes/class-wpmenucart-settings.php:206
+msgid "Choose a cart icon."
+msgstr "בחר סמל של עגלת קניות"
+
+#: includes/class-wpmenucart-settings.php:234
+msgid "Custom Icon"
+msgstr ""
+
+#: includes/class-wpmenucart-settings.php:241
+msgid ""
+"Upload a custom menu cart icon here if you do not want to use one of the "
+"icons above. Make sure you resize the icon before uploading. Icon should "
+"usually be 15-30px tall."
+msgstr ""
+
+#: includes/class-wpmenucart-settings.php:242
+msgid "Select or upload a custom menu cart icon."
+msgstr ""
+
+#: includes/class-wpmenucart-settings.php:243
+msgid "Set image"
+msgstr ""
+
+#: includes/class-wpmenucart-settings.php:244
+msgid "Remove image"
+msgstr ""
+
+#: includes/class-wpmenucart-settings.php:250
+msgid "What would you like to display in the menu?"
+msgstr "מה תרצה להציג בתפריט?"
+
+#: includes/class-wpmenucart-settings.php:258
+msgid "Items Only."
+msgstr "פריטים בלבד."
+
+#: includes/class-wpmenucart-settings.php:259
+msgid "Price Only."
+msgstr "מחיר בלבד."
+
+#: includes/class-wpmenucart-settings.php:260
+msgid "Both price and items."
+msgstr "מחירים ופריטים יחד."
+
+#: includes/class-wpmenucart-settings.php:267
+msgid "Select the alignment that looks best with your menu."
+msgstr "בחר את היישור הנראה הכי טוב עם התפריט שלך."
+
+#: includes/class-wpmenucart-settings.php:275
+msgid "Align Left."
+msgstr "יישור לשמאל"
+
+#: includes/class-wpmenucart-settings.php:276
+msgid "Align Right."
+msgstr "יישור לימין."
+
+#: includes/class-wpmenucart-settings.php:277
+msgid "Default Menu Alignment."
+msgstr "יישור ברירת מחדל של התפריט."
+
+#: includes/class-wpmenucart-settings.php:301
+msgid "Use Built-in AJAX"
+msgstr "השתמש ב-AJAX מובנה"
+
+#: includes/class-wpmenucart-settings.php:308
+msgid ""
+"Enable this option to use the built-in AJAX / live update functions instead "
+"of the default ones from WooCommerce or Jigoshop"
+msgstr ""
+"הפעל אפשרות זו כדי להשתמש באפשרות עדכון חי על ידי AJAX מובנה במקום זה של "
+"WooCommerce או Jigoshop"
+
+#: includes/class-wpmenucart-settings.php:333
+msgid "Texts"
+msgstr ""
+
+#: includes/class-wpmenucart-settings.php:340
+msgid "Empty cart (main item hover)"
+msgstr ""
+
+#: includes/class-wpmenucart-settings.php:356
+msgid "Empty cart (flyout)"
+msgstr ""
+
+#: includes/class-wpmenucart-settings.php:372
+msgid "View cart (main item hover & flyout)"
+msgstr ""
+
+#: includes/class-wpmenucart-settings.php:387
+msgid "Items"
+msgstr ""
+
+#: includes/class-wpmenucart-settings.php:397
+msgid "Single"
+msgstr ""
+
+#: includes/class-wpmenucart-settings.php:403
+msgid "Plural & zero"
+msgstr ""
+
+#: includes/class-wpmenucart-settings.php:416
+msgid "Links"
+msgstr ""
+
+#: includes/class-wpmenucart-settings.php:423
+msgid "Cart URL"
+msgstr ""
+
+#: includes/class-wpmenucart-settings.php:438
+msgid "Shop URL"
+msgstr ""
+
+#: includes/class-wpmenucart-settings.php:472
+msgid "Additional CSS classes"
+msgstr ""
+
+#: includes/class-wpmenucart-settings.php:479
+msgid "Main menu item (li)"
+msgstr ""
+
+#: includes/class-wpmenucart-settings.php:492
+msgid "Main menu item (a)"
+msgstr ""
+
+#: includes/class-wpmenucart-settings.php:505
+msgid "Flyout (ul)"
+msgstr ""
+
+#: includes/class-wpmenucart-settings.php:518
+msgid "Flyout item (li)"
+msgstr ""
+
+#: includes/class-wpmenucart-settings.php:531
+msgid "Flyout item (a)"
+msgstr ""
+
+#: includes/class-wpmenucart-settings.php:545
+msgid "Misc"
+msgstr ""
+
+#: includes/class-wpmenucart-settings.php:552
+msgid "Custom styles"
+msgstr ""
+
+#: includes/shops/wpmenucart-eshop-pro.php:48
+#: includes/shops/wpmenucart-eshop.php:40
+#, php-format
+msgid "%1$s%2$s"
+msgstr "%1$s%2$s"
+
+#: includes/shops/wpmenucart-eshop-pro.php:48
+#: includes/shops/wpmenucart-eshop.php:40
+msgid "2"
+msgstr "2"
+
+#: wp-menu-cart-pro.php:298
+msgid ""
+"WP Menu Cart Pro could not detect an active shop plugin. Make sure you have "
+"activated at least one of the supported plugins."
+msgstr ""
+
+#: wp-menu-cart-pro.php:299
+msgid "Hide this notice"
+msgstr "הסתר הודעה זו"
+
+#: wp-menu-cart-pro.php:303
+msgid ""
+"An old version of WooCommerce Menu Cart is currently activated, you need to "
+"disable or uninstall it for WP Menu Cart to function properly"
+msgstr ""
+
+#: wp-menu-cart-pro.php:309
+msgid ""
+"The free version of WP Menu Cart is currently activated, you need to disable "
+"or uninstall it for WP Menu Cart Pro to function properly"
+msgstr ""
+
+msgid ""
+"WooCommerce Menu Cart depends on <a href=\"%s\">WooCommerce</a> to work!"
+msgstr ""
+"WooCommerce Menu Cart heeft <a href=\"%s\">WooCommerce</a> om te kunnen "
+"functioneren!"
+
+msgid "Display Flyout."
+msgstr "Geef flyout weer."
+
+msgid "Set the name of the menu you want to display"
+msgstr ""
+"Voer de naam in van het menu waarin je het winkelwagentje wilt weergeven"
+
+msgid ""
+"Let's keep this simple! Just check the boxes next to the features you want."
+msgstr ""
+"Super eenvoudig: geef simpelweg de vakjes naast de features zoals jij ze "
+"wilt gebruiken een vinkje."
+
+msgid "Save Changes"
+msgstr "Opslaan"
+
+#~ msgid "Plugin settings"
+#~ msgstr "הגדרות תוסף"
+
+#~ msgid "Select which e-commerce plugin you would like Menu Cart to work with"
+#~ msgstr "בחר תוסף מסחר אלקטרוני איתו Menu Cart יעבוד"
+
+#~ msgid "Always display cart, even if it's empty"
+#~ msgstr "תמיד הצג את עגלת הקניות, גם אם היא ריקה"
+
+#~ msgid "Enter a custom CSS class (optional)"
+#~ msgstr "הכנס CSS מותאם אישית (אופציונלי)"
+
+#~ msgid "Use WPML String Translation"
+#~ msgstr "השתמש בתרגום מחרוזות של WPML"
+
+#~ msgid "Menu Cart"
+#~ msgstr "‏Menu Cart"
+
+#~ msgid "Menu Cart Setup"
+#~ msgstr "הגדות Menu Cart"
+
+#~ msgid "Unlimited Menus"
+#~ msgstr "אינסוף תפריטים"
+
+#~ msgid "Choice of 14 icons"
+#~ msgstr "בחירה מתוך 14 סמלים"
+
+#~ msgid "Access to Shortcode"
+#~ msgstr "גישה ל-Shortcode"
+
+#~ msgid "Top Notch Support"
+#~ msgstr "תמיכה ברמה הגבוהה ביותר"
+
+#~ msgid "Sell In Style With Menu Cart Pro!"
+#~ msgstr "מכור בסטייל עם Menu Cart Pro"
+
+#~ msgid ""
+#~ "Go Pro with Menu Cart Pro. Includes all the great standard features found "
+#~ "in this free version plus:"
+#~ msgstr ""
+#~ "הפוך למקצוען עם Menu Cart Pro. כוללת את כל התכונות הסטנדרטיות הנהדרות של "
+#~ "הגירסא החינמית ובנוסף:"
+
+#~ msgid "A choice of 14 icons"
+#~ msgstr "בחירה של 14 סמלים"
+
+#~ msgid "Buy Now"
+#~ msgstr "קנה עכשיו"
+
+#~ msgid "Want your CSS customized?"
+#~ msgstr "רוצה התאמה אישית של ה-CSS שלך?"
+
+#~ msgid "We can do that for you! Just click the button below to check it out."
+#~ msgstr ""
+#~ "אנחנו יכולים לעשות את זה עבורך! פשוט לחץ על הלחצן למטה כדי לבדוק זאת."
+
+#~ msgid "Customize my CSS!"
+#~ msgstr "התאם אישית את ה-CSS שלי!"
+
+#~ msgid "This feature only available in"
+#~ msgstr "תכונה זו זמינה רק ב-"
+
+#~ msgid "Additional icons are only available in"
+#~ msgstr "סמלים נוספים זמינים רק ב-"
+
+#~ msgid "Menu Item"
+#~ msgstr "פריט תפריט"
+
+#~ msgid "Add to Menu"
+#~ msgstr "הוסף לתפריט"

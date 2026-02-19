@@ -1,0 +1,425 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Menu Cart\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-06-29 17:27+0200\n"
+"PO-Revision-Date: 2016-06-29 17:27+0200\n"
+"Last-Translator: Mesine_admin <maile.rohivali@gmail.com>\n"
+"Language-Team: \n"
+"Language: et\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: et_EE\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../includes/class-wpmenucart-data.php:120
+#: ../includes/class-wpmenucart-settings.php:399
+#: ../includes/class-wpmenucart-settings.php:405
+#, php-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d toode"
+msgstr[1] "%d toodet"
+
+#: ../includes/class-wpmenucart-data.php:125
+#, php-format
+msgid "%d "
+msgid_plural "%d "
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../includes/class-wpmenucart-data.php:264
+#: ../includes/class-wpmenucart-settings.php:365
+msgid "your cart is currently empty"
+msgstr ""
+
+#: ../includes/class-wpmenucart-data.php:275
+#: ../includes/class-wpmenucart-settings.php:349
+msgid "Start shopping"
+msgstr "Alusta ostmist"
+
+#: ../includes/class-wpmenucart-data.php:286
+#: ../includes/class-wpmenucart-settings.php:381
+msgid "View your shopping cart"
+msgstr "Näita ostukorvi"
+
+#: ../includes/class-wpmenucart-settings-callbacks.php:130
+msgid "Add menu"
+msgstr ""
+
+#: ../includes/class-wpmenucart-settings-callbacks.php:152
+msgid ""
+"<strong>Please note:</strong> you need to open your website in a new tab/"
+"browser window after updating the cart icon for the change to be visible!"
+msgstr ""
+
+#: ../includes/class-wpmenucart-settings.php:34
+#: ../includes/class-wpmenucart-settings.php:35
+msgid "Menu Cart Pro"
+msgstr ""
+
+#: ../includes/class-wpmenucart-settings.php:46
+msgid "Settings"
+msgstr "Seaded"
+
+#: ../includes/class-wpmenucart-settings.php:54
+msgid "Main"
+msgstr ""
+
+#: ../includes/class-wpmenucart-settings.php:55
+msgid "Texts & Links"
+msgstr ""
+
+#: ../includes/class-wpmenucart-settings.php:56
+msgid "Advanced"
+msgstr ""
+
+#: ../includes/class-wpmenucart-settings.php:63
+msgid "WP Menu Cart"
+msgstr "WP Menu Cart"
+
+#: ../includes/class-wpmenucart-settings.php:109
+msgid "Main settings"
+msgstr ""
+
+#: ../includes/class-wpmenucart-settings.php:116
+msgid "E-commerce Plugin"
+msgstr ""
+
+#: ../includes/class-wpmenucart-settings.php:130
+msgid "Select the menu(s) in which you want to display the Menu Cart"
+msgstr "Vali, millis(t)es menüü(de)s Menu Cart'i kuvatakse"
+
+#: ../includes/class-wpmenucart-settings.php:142
+msgid "Always display cart"
+msgstr ""
+
+#: ../includes/class-wpmenucart-settings.php:155
+msgid "Use Flyout"
+msgstr ""
+
+#: ../includes/class-wpmenucart-settings.php:168
+msgid "Flyout item number"
+msgstr ""
+
+#: ../includes/class-wpmenucart-settings.php:176
+msgid "Unlimited"
+msgstr ""
+
+#: ../includes/class-wpmenucart-settings.php:194
+msgid "Display shopping cart icon."
+msgstr "Näita ostukorvi ikooni"
+
+#: ../includes/class-wpmenucart-settings.php:206
+msgid "Choose a cart icon."
+msgstr "Vali ostukorvi ikoon"
+
+#: ../includes/class-wpmenucart-settings.php:234
+msgid "Custom Icon"
+msgstr ""
+
+#: ../includes/class-wpmenucart-settings.php:241
+msgid ""
+"Upload a custom menu cart icon here if you do not want to use one of the "
+"icons above. Make sure you resize the icon before uploading. Icon should "
+"usually be 15-30px tall."
+msgstr ""
+
+#: ../includes/class-wpmenucart-settings.php:242
+msgid "Select or upload a custom menu cart icon."
+msgstr ""
+
+#: ../includes/class-wpmenucart-settings.php:243
+msgid "Set image"
+msgstr ""
+
+#: ../includes/class-wpmenucart-settings.php:244
+msgid "Remove image"
+msgstr ""
+
+#: ../includes/class-wpmenucart-settings.php:250
+msgid "What would you like to display in the menu?"
+msgstr "Mida sa soovid menüüs näidata?"
+
+#: ../includes/class-wpmenucart-settings.php:258
+msgid "Items Only."
+msgstr "Ainult tooted"
+
+#: ../includes/class-wpmenucart-settings.php:259
+msgid "Price Only."
+msgstr "Ainult hind"
+
+#: ../includes/class-wpmenucart-settings.php:260
+msgid "Both price and items."
+msgstr "Tooted ja hind"
+
+#: ../includes/class-wpmenucart-settings.php:267
+msgid "Select the alignment that looks best with your menu."
+msgstr "Vali menüüga paremini sobiv joondus"
+
+#: ../includes/class-wpmenucart-settings.php:275
+msgid "Align Left."
+msgstr "Joonda vasakule"
+
+#: ../includes/class-wpmenucart-settings.php:276
+msgid "Align Right."
+msgstr "Joonda paremale"
+
+#: ../includes/class-wpmenucart-settings.php:277
+msgid "Default Menu Alignment."
+msgstr "Vaikimisi menüü joondus"
+
+#: ../includes/class-wpmenucart-settings.php:301
+msgid "Use Built-in AJAX"
+msgstr "Kasuta sisseehitatud AJAX-t"
+
+#: ../includes/class-wpmenucart-settings.php:308
+msgid ""
+"Enable this option to use the built-in AJAX / live update functions instead "
+"of the default ones from WooCommerce or Jigoshop"
+msgstr ""
+"Enable this option to use the built-in AJAX / live update functions instead "
+"of the default ones from WooCommerce or Jigoshop"
+
+#: ../includes/class-wpmenucart-settings.php:333
+msgid "Texts"
+msgstr ""
+
+#: ../includes/class-wpmenucart-settings.php:340
+msgid "Empty cart (main item hover)"
+msgstr ""
+
+#: ../includes/class-wpmenucart-settings.php:356
+msgid "Empty cart (flyout)"
+msgstr ""
+
+#: ../includes/class-wpmenucart-settings.php:372
+msgid "View cart (main item hover & flyout)"
+msgstr ""
+
+#: ../includes/class-wpmenucart-settings.php:387
+msgid "Items"
+msgstr ""
+
+#: ../includes/class-wpmenucart-settings.php:397
+msgid "Single"
+msgstr ""
+
+#: ../includes/class-wpmenucart-settings.php:403
+msgid "Plural & zero"
+msgstr ""
+
+#: ../includes/class-wpmenucart-settings.php:416
+msgid "Links"
+msgstr ""
+
+#: ../includes/class-wpmenucart-settings.php:423
+msgid "Cart URL"
+msgstr ""
+
+#: ../includes/class-wpmenucart-settings.php:438
+msgid "Shop URL"
+msgstr ""
+
+#: ../includes/class-wpmenucart-settings.php:472
+msgid "Additional CSS classes"
+msgstr ""
+
+#: ../includes/class-wpmenucart-settings.php:479
+msgid "Main menu item (li)"
+msgstr ""
+
+#: ../includes/class-wpmenucart-settings.php:492
+msgid "Main menu item (a)"
+msgstr ""
+
+#: ../includes/class-wpmenucart-settings.php:505
+msgid "Flyout (ul)"
+msgstr ""
+
+#: ../includes/class-wpmenucart-settings.php:518
+msgid "Flyout item (li)"
+msgstr ""
+
+#: ../includes/class-wpmenucart-settings.php:531
+msgid "Flyout item (a)"
+msgstr ""
+
+#: ../includes/class-wpmenucart-settings.php:545
+msgid "Misc"
+msgstr ""
+
+#: ../includes/class-wpmenucart-settings.php:552
+msgid "Custom styles"
+msgstr ""
+
+#: ../includes/shops/wpmenucart-eshop-pro.php:48
+#: ../includes/shops/wpmenucart-eshop.php:40
+#, php-format
+msgid "%1$s%2$s"
+msgstr "%1$s%2$s"
+
+#: ../includes/shops/wpmenucart-eshop-pro.php:48
+#: ../includes/shops/wpmenucart-eshop.php:40
+msgid "2"
+msgstr "2"
+
+#: ../wp-menu-cart-pro.php:298
+msgid ""
+"WP Menu Cart Pro could not detect an active shop plugin. Make sure you have "
+"activated at least one of the supported plugins."
+msgstr ""
+"WP Menu Cart Pro ei leidnud aktiivset poe moodulit. Kontrolli, et vähemalt "
+"üks toetatud moodulitest oleks aktiveeritud."
+
+#: ../wp-menu-cart-pro.php:299
+msgid "Hide this notice"
+msgstr "Peida see märkus"
+
+#: ../wp-menu-cart-pro.php:303
+msgid ""
+"An old version of WooCommerce Menu Cart is currently activated, you need to "
+"disable or uninstall it for WP Menu Cart to function properly"
+msgstr ""
+"Vanem versioon WooCommerce Menu Cart'st on hetkel aktiivne, deaktiveeri või "
+"eemalda see, et WP Menu Cart töötaks korralikult"
+
+#: ../wp-menu-cart-pro.php:309
+msgid ""
+"The free version of WP Menu Cart is currently activated, you need to disable "
+"or uninstall it for WP Menu Cart Pro to function properly"
+msgstr ""
+
+#~ msgid "WooCommerce Menu Cart"
+#~ msgstr "WooCommerce Menu Cart"
+
+#~ msgid "www.wpovernight.com/plugins"
+#~ msgstr "www.wpovernight.com/plugins"
+
+#~ msgid ""
+#~ "Extension for WooCommerce that places a cart icon with number of items "
+#~ "and total cost in the menu bar. Activate the plugin, set your options and "
+#~ "you're ready to go! Will automatically conform to your theme styles."
+#~ msgstr ""
+#~ "Lisa WooCommerce'le, mis toob menüüribale ostukorvi ikooni koos toodete "
+#~ "arvu ja hinnaga. Aktiveeri moodul, seadista ja ongi valmis! Kohandub "
+#~ "automaatselt Sinu teema välimusega."
+
+#~ msgid "Jeremiah Prummer, Ewout Fernhout"
+#~ msgstr "Jeremiah Prummer, Ewout Fernhout"
+
+#~ msgid "www.wpovernight.com"
+#~ msgstr "www.wpovernight.com"
+
+#~ msgid "Select which e-commerce plugin you would like Menu Cart to work with"
+#~ msgstr "Vali, millise e-poe mooduliga Menu Cart peaks töötama"
+
+#~ msgid "Display cart contents in menu fly-out."
+#~ msgstr "Näita korvi sisu menüü avanedes."
+
+#~ msgid "Set maximum number of products to display in fly-out"
+#~ msgstr "Määra maksimaalne toodete arv, mida menüü avanedes näidatakse"
+
+#~ msgid "Enter a custom CSS class (optional)"
+#~ msgstr "SIsesta kohandatud CSS klass (valikuline)"
+
+#~ msgid "Use WPML String Translation"
+#~ msgstr "Kasuta WPML String Translationit"
+
+#~ msgid "Menu Cart"
+#~ msgstr "Menu Cart"
+
+#~ msgid "Menu Cart Setup"
+#~ msgstr "Menu Cart seadistamine"
+
+#~ msgid "Unlimited Menus"
+#~ msgstr "Piiramatult menüüsid"
+
+#~ msgid "Choice of 14 icons"
+#~ msgstr "Valik 14 ikooni vahel"
+
+#~ msgid "Access to Shortcode"
+#~ msgstr "Ligipääs lühikoodile"
+
+#~ msgid "Top Notch Support"
+#~ msgstr "Top Notch Support"
+
+#~ msgid "Sell In Style With Menu Cart Pro!"
+#~ msgstr "Sell In Style With Menu Cart Pro!"
+
+#~ msgid ""
+#~ "Go Pro with Menu Cart Pro. Includes all the great standard features found "
+#~ "in this free version plus:"
+#~ msgstr ""
+#~ "Go Pro with Menu Cart Pro. Includes all the great standard features found "
+#~ "in this free version plus:"
+
+#~ msgid "A choice of 14 icons"
+#~ msgstr "Valik 14 ikooni vahel"
+
+#~ msgid "A fully featured cart details flyout"
+#~ msgstr "A fully featured cart details flyout"
+
+#~ msgid ""
+#~ "Ability to add cart + flyout to an <strong>unlimited</strong> amount of "
+#~ "menus"
+#~ msgstr ""
+#~ "Võimalus lisada ostukorv + flyout <strong>piiramatule</strong> arvule "
+#~ "menüüdele"
+
+#~ msgid "Ability to add a custom css class"
+#~ msgstr "Võimalus lisada kohandatud css klass"
+
+#~ msgid "Automatic updates on any great new features"
+#~ msgstr "Automaatsed uuendused uutele lahedatele lisadele"
+
+#~ msgid "Put the cart anywhere with the [wpmenucart] shortcode"
+#~ msgstr "Aseta ostukorv ükskõik kuhu [wpmenucart] lühikoodiga"
+
+#~ msgid ""
+#~ "Need to see more? %sClick here%s to check it out. Add a product to your "
+#~ "cart and watch what happens!"
+#~ msgstr ""
+#~ "Tahad rohkem näha? %sVajuta siia%s , et järgi vaadata. Lisa toode "
+#~ "ostukorvi ja vaata, mis juhtub!"
+
+#~ msgid "Buy Now"
+#~ msgstr "Osta nüüd"
+
+#~ msgid "Want your CSS customized?"
+#~ msgstr "Soovid oma CSS kohandada?"
+
+#~ msgid "We can do that for you! Just click the button below to check it out."
+#~ msgstr ""
+#~ "Me saame seda teha sinu eest! Lihtsalt vajuta nuppu, et järgi vaadata."
+
+#~ msgid "Customize my CSS!"
+#~ msgstr "Kohanda mu CSS!"
+
+#~ msgid "This feature only available in"
+#~ msgstr "See lisa saadaval ainult"
+
+#~ msgid "Additional icons are only available in"
+#~ msgstr "Lisa ikoonid saadaval ainult"
+
+#~ msgid "Menu Item"
+#~ msgstr "Menüü osa"
+
+#~ msgid "Add to Menu"
+#~ msgstr "Lisa menüüsse"
+
+#~ msgid "Plugin settings"
+#~ msgstr "Mooduli seaded"
+
+#~ msgid "Always display cart, even if it's empty"
+#~ msgstr "Alati näita ostukorvi, isegi kui see on tühi"

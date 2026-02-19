@@ -1,0 +1,526 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Menu Cart\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-11-13 12:54+0100\n"
+"PO-Revision-Date: 2017-11-13 13:23+0100\n"
+"Last-Translator: Johan Yourstone <johan.yourstone@gmail.com>\n"
+"Language-Team: WP Overnight <support@wpovernight.com>\n"
+"Language: sv_SE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: Poedit 2.0.4\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/class-wpmenucart-data.php:126
+#: includes/class-wpmenucart-settings.php:467
+#: includes/class-wpmenucart-settings.php:474
+#, php-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d vara"
+msgstr[1] "%d varor"
+
+#: includes/class-wpmenucart-data.php:132
+#, php-format
+msgid "%d "
+msgid_plural "%d "
+msgstr[0] "%d"
+msgstr[1] "%d"
+
+#: includes/class-wpmenucart-data.php:291
+#: includes/class-wpmenucart-settings.php:430
+msgid "your cart is currently empty"
+msgstr "Din varukorg är tom"
+
+#: includes/class-wpmenucart-data.php:301
+#: includes/class-wpmenucart-settings.php:413
+msgid "Start shopping"
+msgstr "Börja handla"
+
+#: includes/class-wpmenucart-data.php:311
+#: includes/class-wpmenucart-settings.php:447
+msgid "View your shopping cart"
+msgstr "Visa din varukorg"
+
+#: includes/class-wpmenucart-settings-callbacks.php:130
+msgid "Add menu"
+msgstr "Lägg till meny"
+
+#: includes/class-wpmenucart-settings-callbacks.php:152
+msgid ""
+"<strong>Please note:</strong> you need to open your website in a new tab/"
+"browser window after updating the cart icon for the change to be visible!"
+msgstr ""
+"<strong>Observera:</strong> Du måste öppna webbplatsen i en ny flik eller "
+"nytt fönster efter du har uppdaterat varukorgsikonen för att ändringen ska "
+"synas!"
+
+#: includes/class-wpmenucart-settings.php:38
+#: includes/class-wpmenucart-settings.php:39
+msgid "Menu Cart Pro"
+msgstr "Menu Cart Pro"
+
+#: includes/class-wpmenucart-settings.php:50
+msgid "Settings"
+msgstr "Inställningar"
+
+#: includes/class-wpmenucart-settings.php:58
+msgid "Main"
+msgstr "Huvudsida"
+
+#: includes/class-wpmenucart-settings.php:59
+msgid "Texts & Links"
+msgstr "Texter och länkar"
+
+#: includes/class-wpmenucart-settings.php:60
+msgid "Advanced"
+msgstr "Avancerat"
+
+#: includes/class-wpmenucart-settings.php:67
+msgid "WP Menu Cart"
+msgstr "WP Menu Cart"
+
+#: includes/class-wpmenucart-settings.php:113
+msgid "Main settings"
+msgstr "Huvudinställningar"
+
+#: includes/class-wpmenucart-settings.php:120
+msgid "E-commerce Plugin"
+msgstr "E-handelstillägg"
+
+#: includes/class-wpmenucart-settings.php:128
+msgid "Select which e-commerce plugin you would like Menu Cart to work with."
+msgstr "Välj vilket e-handelstillägg du vill att Menu Cart ska fungera med."
+
+#: includes/class-wpmenucart-settings.php:136
+msgid "Hide theme shopping cart icon"
+msgstr "Dölj temats varukorgsikon"
+
+#: includes/class-wpmenucart-settings.php:150
+msgid "Select the menu(s) in which you want to display the Menu Cart"
+msgstr "Välj menyn/menyerna du vill ska visa Menu Cart"
+
+#: includes/class-wpmenucart-settings.php:162
+msgid "Always display cart"
+msgstr "Visa alltid varukorg"
+
+#: includes/class-wpmenucart-settings.php:169
+msgid "Always display cart, even if it's empty."
+msgstr "Visa alltid varukorg, även om den är tom."
+
+#: includes/class-wpmenucart-settings.php:175
+msgid "Use Flyout"
+msgstr "Använd popup-meny"
+
+#: includes/class-wpmenucart-settings.php:182
+msgid "Select to display cart contents in menu fly-out."
+msgstr "Visa varukorgsinnehåll i popup-meny"
+
+#: includes/class-wpmenucart-settings.php:188
+msgid "Flyout item truncation"
+msgstr "Antal tecken för produkter i popup-meny"
+
+#: includes/class-wpmenucart-settings.php:197
+msgid ""
+"Maximum number of characters for product names in the flyout. To use full "
+"product names, enter 0."
+msgstr ""
+"Maximalt antal tecken för produktnamn i popup-menyn. För att använda hela "
+"produktnamnet, ange 0."
+
+#: includes/class-wpmenucart-settings.php:203
+msgid "Flyout item number"
+msgstr "Antal produkter i popup-meny"
+
+#: includes/class-wpmenucart-settings.php:211
+msgid "Unlimited"
+msgstr "Obegränsat"
+
+#: includes/class-wpmenucart-settings.php:223
+msgid "Set maximum number of products to display in fly-out."
+msgstr "Ange maximalt antal produkter att visa i popup-menyn"
+
+#: includes/class-wpmenucart-settings.php:229
+msgid "Display shopping cart icon."
+msgstr "Visa varukorgsikon"
+
+#: includes/class-wpmenucart-settings.php:241
+msgid "Choose a cart icon."
+msgstr "Välj en varukorgsikon"
+
+#: includes/class-wpmenucart-settings.php:269
+msgid "Custom Icon"
+msgstr "Anpassad ikon"
+
+#: includes/class-wpmenucart-settings.php:276
+msgid ""
+"Upload a custom menu cart icon here if you do not want to use one of the "
+"icons above. Make sure you resize the icon before uploading. Icon should "
+"usually be 15-30px tall."
+msgstr ""
+"Ladda upp en anpassad varukorgsikon här om du inte vill använda någon av "
+"ikonerna ovan. Se till att du ändrar storlek på ikonen innan du laddar upp "
+"den. Ikonen bör vara 15-30px hög."
+
+#: includes/class-wpmenucart-settings.php:277
+msgid "Select or upload a custom menu cart icon."
+msgstr "Välj eller ladda upp en anpassad varukorgsikon."
+
+#: includes/class-wpmenucart-settings.php:278
+msgid "Set image"
+msgstr "Välj bild"
+
+#: includes/class-wpmenucart-settings.php:279
+msgid "Remove image"
+msgstr "Ta bort bild"
+
+#: includes/class-wpmenucart-settings.php:285
+msgid "Contents of the menu cart item"
+msgstr "Innehållet i menyposten för varukorgen"
+
+#: includes/class-wpmenucart-settings.php:293
+msgid "Items Only."
+msgstr "Endast produkter."
+
+#: includes/class-wpmenucart-settings.php:294
+msgid "Price Only."
+msgstr "Endast pris."
+
+#: includes/class-wpmenucart-settings.php:295
+msgid "Both price and items."
+msgstr "Både produkter och pris."
+
+#: includes/class-wpmenucart-settings.php:296
+msgid "Custom:"
+msgstr "Anpassad:"
+
+#: includes/class-wpmenucart-settings.php:305
+msgid ""
+"You can use the following placeholders: {{icon}}, {{# items}}, {{#}}, "
+"{{items}}, {{price}}"
+msgstr ""
+"Du kan använda följande platshållare: {{icon}}, {{# items}}, {{#}}, "
+"{{items}}, {{price}}"
+
+#: includes/class-wpmenucart-settings.php:313
+msgid "Select the alignment that looks best with your menu."
+msgstr "Välj den justering som passar bäst med din meny."
+
+#: includes/class-wpmenucart-settings.php:321
+msgid "Align Left."
+msgstr "Vänsterjusterad."
+
+#: includes/class-wpmenucart-settings.php:322
+msgid "Align Right."
+msgstr "Högerjusterad."
+
+#: includes/class-wpmenucart-settings.php:323
+msgid "Default Menu Alignment."
+msgstr "Standardjustering för meny"
+
+#: includes/class-wpmenucart-settings.php:331
+msgid "Price to display"
+msgstr "Pris att visa"
+
+#: includes/class-wpmenucart-settings.php:339
+msgid "Total (including fees)"
+msgstr "Totalsumma (inklusive avgifter)"
+
+#: includes/class-wpmenucart-settings.php:340
+msgid "Subtotal (total of products)"
+msgstr "Delsumma (summan för produkterna)"
+
+#: includes/class-wpmenucart-settings.php:365
+msgid "Use Built-in AJAX"
+msgstr "Använd inbyggd AJAX"
+
+#: includes/class-wpmenucart-settings.php:372
+msgid ""
+"Enable this option to use the built-in AJAX / live update functions instead "
+"of the default ones from WooCommerce or Jigoshop"
+msgstr ""
+"Aktivera detta alternativ för att använda den inbyggda funktionen för AJAX/"
+"live-uppdatering istället för standardfunktionerna från WooCommerce eller "
+"Jigoshop."
+
+#: includes/class-wpmenucart-settings.php:397
+msgid "Texts"
+msgstr "Texter"
+
+#: includes/class-wpmenucart-settings.php:404
+msgid "Empty cart (main item hover)"
+msgstr "Tom varukorg (hover för huvudlänk)"
+
+#: includes/class-wpmenucart-settings.php:415
+#: includes/class-wpmenucart-settings.php:432
+#: includes/class-wpmenucart-settings.php:449
+#: includes/class-wpmenucart-settings.php:479
+#: includes/class-wpmenucart-settings.php:505
+#: includes/class-wpmenucart-settings.php:522
+msgid "Leave empty for default"
+msgstr "Lämna tom för standard."
+
+#: includes/class-wpmenucart-settings.php:421
+msgid "Empty cart (flyout)"
+msgstr "Tom varukorg (popup-meny)"
+
+#: includes/class-wpmenucart-settings.php:438
+msgid "View cart (main item hover & flyout)"
+msgstr "Visa varukorg (hover för huvudlänk och popup-meny)"
+
+#: includes/class-wpmenucart-settings.php:455
+msgid "Items"
+msgstr "Varor"
+
+#: includes/class-wpmenucart-settings.php:465
+msgid "Single"
+msgstr "Singular"
+
+#: includes/class-wpmenucart-settings.php:472
+msgid "Plural & zero"
+msgstr "Plural och noll"
+
+#: includes/class-wpmenucart-settings.php:487
+msgid "Links"
+msgstr "Länkar"
+
+#: includes/class-wpmenucart-settings.php:494
+msgid "Cart URL"
+msgstr "Varukorgens URL"
+
+#: includes/class-wpmenucart-settings.php:511
+msgid "Shop URL"
+msgstr "Butikens URL"
+
+#: includes/class-wpmenucart-settings.php:547
+msgid "Additional CSS classes"
+msgstr "Ytterligare CSS-klasser"
+
+#: includes/class-wpmenucart-settings.php:554
+msgid "Main menu item (li)"
+msgstr "Huvudmeny-post (li)"
+
+#: includes/class-wpmenucart-settings.php:567
+msgid "Main menu item (a)"
+msgstr "Huvudmeny-post (a)"
+
+#: includes/class-wpmenucart-settings.php:580
+msgid "Flyout (ul)"
+msgstr "Popup-meny (ul)"
+
+#: includes/class-wpmenucart-settings.php:593
+msgid "Flyout item (li)"
+msgstr "Popup-meny-post (li)"
+
+#: includes/class-wpmenucart-settings.php:606
+msgid "Flyout item (a)"
+msgstr "Popup-meny-post (a)"
+
+#: includes/class-wpmenucart-settings.php:620
+msgid "Misc"
+msgstr "Övrigt"
+
+#: includes/class-wpmenucart-settings.php:627
+msgid "Custom styles"
+msgstr "Anpassade stilar"
+
+#: includes/compatibility/class-wc-core-compatibility.php:222
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: includes/shops/wpmenucart-eshop-pro.php:48
+#: includes/shops/wpmenucart-eshop.php:40
+#, php-format
+msgid "%1$s%2$s"
+msgstr "%1$s%2$s"
+
+#: includes/shops/wpmenucart-eshop-pro.php:48
+#: includes/shops/wpmenucart-eshop.php:40
+msgid "2"
+msgstr "2"
+
+#: wp-menu-cart-pro.php:313
+msgid ""
+"WP Menu Cart Pro could not detect an active shop plugin. Make sure you have "
+"activated at least one of the supported plugins."
+msgstr ""
+"WP Menu Cart Pro kunde inte hitta ett aktivt e-handelstillägg. Se till att "
+"du har aktiverat minst ett av de tillägg som stöds."
+
+#: wp-menu-cart-pro.php:314
+msgid "Hide this notice"
+msgstr "Dölj denna notis"
+
+#: wp-menu-cart-pro.php:318
+msgid ""
+"An old version of WooCommerce Menu Cart is currently activated, you need to "
+"disable or uninstall it for WP Menu Cart to function properly"
+msgstr ""
+"En gammal version av WooCommerce Menu Cart är för närvarande aktiverat, du "
+"måste inaktivera eller avinstallera det för att WP Menu Cart ska fungera "
+"ordentligt"
+
+#: wp-menu-cart-pro.php:324
+msgid ""
+"The free version of WP Menu Cart is currently activated, you need to disable "
+"or uninstall it for WP Menu Cart Pro to function properly"
+msgstr ""
+"Gratisversionen av WP Menu Cart är aktiverad, du måste inaktivera eller "
+"avinstallera det för att WP Menu Cart Pro ska fungera ordentligt"
+
+#: wp-menu-cart-pro.php:334
+msgid ""
+"WP Menu Cart Pro requires PHP 5.3 or higher (5.6 or higher recommended)."
+msgstr ""
+"WP Menu Cart Pro kräver PHP 5.3 eller högre (5.6 eller högre rekommenderas)."
+
+#: wp-menu-cart-pro.php:335
+msgid "How to update your PHP version"
+msgstr "Hur du uppdaterar din PHP-version"
+
+#~ msgid ""
+#~ "WooCommerce Menu Cart depends on <a href=\"%s\">WooCommerce</a> to work!"
+#~ msgstr ""
+#~ "WooCommerce Menu Cart heeft <a href=\"%s\">WooCommerce</a> om te kunnen "
+#~ "functioneren!"
+
+#~ msgid "Display Flyout."
+#~ msgstr "Geef flyout weer."
+
+#~ msgid "Set the name of the menu you want to display"
+#~ msgstr ""
+#~ "Voer de naam in van het menu waarin je het winkelwagentje wilt weergeven"
+
+#~ msgid ""
+#~ "Let's keep this simple! Just check the boxes next to the features you "
+#~ "want."
+#~ msgstr ""
+#~ "Super eenvoudig: geef simpelweg de vakjes naast de features zoals jij ze "
+#~ "wilt gebruiken een vinkje."
+
+#~ msgid "Save Changes"
+#~ msgstr "Opslaan"
+
+#~ msgid "What would you like to display in the menu?"
+#~ msgstr "Vad vill du visa i menyn?"
+
+#~ msgid "Menu Cart requires a shop plugin to be active"
+#~ msgstr "Menu Cart kräver att ett e-handelstillägg är aktiverat"
+
+#~ msgid "Plugin settings"
+#~ msgstr "Tilläggsinställningar"
+
+#~ msgid "Select which e-commerce plugin you would like Menu Cart to work with"
+#~ msgstr "Välj vilket e-handelstillägg du vill att Menu Cart ska fungera med"
+
+#~ msgid "Always display cart, even if it's empty"
+#~ msgstr "Visa alltid varukorg, även om den är tom"
+
+#~ msgid "Display cart contents in menu fly-out."
+#~ msgstr "Visa varukorgsinnehåll i popup-meny"
+
+#~ msgid "Set maximum number of products to display in fly-out"
+#~ msgstr "Ange maximalt antal produkter att visa i popup-menyn"
+
+#~ msgid "Enter a custom CSS class (optional)"
+#~ msgstr "Ange en anpassad CSS-klass (valfritt)"
+
+#~ msgid "Menu Cart"
+#~ msgstr "Menu Cart"
+
+#~ msgid "Menu Cart Setup"
+#~ msgstr "Inställningar för Menu Cart"
+
+#~ msgid "WP Menu Cart Pro"
+#~ msgstr "WP Menu Cart Pro"
+
+#~ msgid "Get WP Cart Pro!"
+#~ msgstr "Skaffa WP Cart Pro!"
+
+#~ msgid "Limited Offer:"
+#~ msgstr "Tidsbegränsat erbjudande:"
+
+#~ msgid "20% off!"
+#~ msgstr "20% rabatt!"
+
+#~ msgid ""
+#~ "Includes all the great standard features found in this free version plus:"
+#~ msgstr ""
+#~ "Innehåller alla fantastiska standardfunktioner i denna gratisversion plus:"
+
+#~ msgid "A choice of over 10 cart icons"
+#~ msgstr "Ett urval av över 10 varukorgsikoner"
+
+#~ msgid "A fully featured cart details flyout"
+#~ msgstr "En fullfjädrad popup-meny för varukorgsinnehåll"
+
+#~ msgid "Ability to add cart + flyout for up to 3 menus"
+#~ msgstr "Möjlighet att lägga till varukorg + popup för upp till 3 menyer"
+
+#~ msgid "Ability to add a custom css class"
+#~ msgstr "Möjlighet att lägga till en anpassad CSS-klass"
+
+#~ msgid "Automatic updates on any great new features"
+#~ msgstr "Automatiska uppdateringar för nya fantastiska funktioner"
+
+#~ msgid ""
+#~ "Need to see more? %sClick here%s to check it out. Add a product to your "
+#~ "cart and watch what happens!"
+#~ msgstr ""
+#~ "Behöver du se mer? %sKlicka här%s för att kolla in det. Lägg en produkt i "
+#~ "varukorgen och se vad som händer!"
+
+#~ msgid "Buy Now"
+#~ msgstr "Köp nu"
+
+#~ msgid "Want your CSS customized?"
+#~ msgstr "Vill du ha din CSS anpassad?"
+
+#~ msgid "We can do that for you! Just click the button below to check it out."
+#~ msgstr ""
+#~ "Vi kan göra det åt dig! Klicka bara på knappen nedan för att kolla in det."
+
+#~ msgid "Customize my CSS!"
+#~ msgstr "Anpassa min CSS!"
+
+#~ msgid "This feature only available in"
+#~ msgstr "Den här funktionen är endast tillgänglig i"
+
+#~ msgid "Additional icons are only available in"
+#~ msgstr "Ytterligare ikoner är endast tillgängliga i"
+
+#~ msgid ""
+#~ "Enter your order confirmation number to receive automated updates "
+#~ "(<i>format: #xxxxx</i>)"
+#~ msgstr ""
+#~ "Ange ditt bekräftelsenummer i beställningen för att ta emot automatiska "
+#~ "uppdateringar (<i>format: #xxxxx</i>)"
+
+#~ msgid "Menu Cart Pro Setup"
+#~ msgstr "Inställningar för Menu Cart Pro"
+
+#~ msgid ""
+#~ "For our custom CSS service %sClick here%s. Be sure to use the coupon code "
+#~ "<strong>proservice</strong> at checkout. For support, visit %s or email %s"
+#~ msgstr ""
+#~ "För vår anpassade CSS-tjänst %sKlicka här %s. Se till att använda "
+#~ "rabattkoden <strong>proservice</strong> i kassan. För support, besök %s "
+#~ "eller maila %s"
+
+#~ msgid ""
+#~ "An Unexpected HTTP Error occurred during the API request.</p> <p><a href="
+#~ "\"?\" onclick=\"document.location.reload(); return false;\">Try again</a>"
+#~ msgstr ""
+#~ "Ett oväntat HTTP-fel inträffade under API-förfrågan.</p> <p><a href=”?” "
+#~ "onclick=”document.location.reload(); return false;”>Försök igen</a>"
+
+#~ msgid "An unknown error occurred"
+#~ msgstr "Ett okänt fel inträffade"

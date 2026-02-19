@@ -1,0 +1,417 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Menu Cart\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-20 15:23+0100\n"
+"PO-Revision-Date: 2020-02-20 15:29+0100\n"
+"Last-Translator: Ewout Fernhout <chocolade@extrapuur.nl>\n"
+"Language-Team: WP Overnight <support@wpovernight.com>\n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/class-wpmenucart-data.php:126
+#: includes/class-wpmenucart-settings.php:467
+#: includes/class-wpmenucart-settings.php:474
+#, php-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d artikel"
+msgstr[1] "%d artikelen"
+
+#: includes/class-wpmenucart-data.php:132
+#, php-format
+msgid "%d "
+msgid_plural "%d "
+msgstr[0] "%d "
+msgstr[1] "%d "
+
+#: includes/class-wpmenucart-data.php:142
+msgid "Cart"
+msgstr "Winkelwagen"
+
+#: includes/class-wpmenucart-data.php:291
+#: includes/class-wpmenucart-settings.php:430
+msgid "your cart is currently empty"
+msgstr "Uw winkelwagen is leeg"
+
+#: includes/class-wpmenucart-data.php:301
+#: includes/class-wpmenucart-settings.php:413
+msgid "Start shopping"
+msgstr "Naar de winkel"
+
+#: includes/class-wpmenucart-data.php:311
+#: includes/class-wpmenucart-settings.php:447
+msgid "View your shopping cart"
+msgstr "Bekijk uw winkelwagen"
+
+#: includes/class-wpmenucart-settings-callbacks.php:130
+msgid "Add menu"
+msgstr "Menu toevoegen"
+
+#: includes/class-wpmenucart-settings-callbacks.php:152
+msgid ""
+"<strong>Please note:</strong> you need to open your website in a new tab/"
+"browser window after updating the cart icon for the change to be visible!"
+msgstr ""
+"<strong>Let op:</strong> na het wijzigen van het icoontje moet u de website "
+"in een nieuwe browser tab of venster openen, anders zullen de wijzigingen "
+"niet direct zichtbaar zijn!"
+
+#: includes/class-wpmenucart-settings.php:38
+#: includes/class-wpmenucart-settings.php:39
+msgid "Menu Cart Pro"
+msgstr "Menu Cart Pro"
+
+#: includes/class-wpmenucart-settings.php:50
+msgid "Settings"
+msgstr "Instellingen"
+
+#: includes/class-wpmenucart-settings.php:58
+msgid "Main"
+msgstr "Hoofdinstellingen"
+
+#: includes/class-wpmenucart-settings.php:59
+msgid "Texts & Links"
+msgstr "Teksten & Links"
+
+#: includes/class-wpmenucart-settings.php:60
+msgid "Advanced"
+msgstr "Geavanceerd"
+
+#: includes/class-wpmenucart-settings.php:67
+msgid "WP Menu Cart"
+msgstr "WP Menu Cart"
+
+#: includes/class-wpmenucart-settings.php:113
+msgid "Main settings"
+msgstr "Hoofdinstellingen"
+
+#: includes/class-wpmenucart-settings.php:120
+msgid "E-commerce Plugin"
+msgstr "E-commerce Plugin"
+
+#: includes/class-wpmenucart-settings.php:128
+msgid "Select which e-commerce plugin you would like Menu Cart to work with."
+msgstr "Selecteer de e-commerce plugin die u gebruikt voor Menu Cart"
+
+#: includes/class-wpmenucart-settings.php:136
+msgid "Hide theme shopping cart icon"
+msgstr "Verberg het winkelwagen icoontje van het site thema"
+
+#: includes/class-wpmenucart-settings.php:150
+msgid "Select the menu(s) in which you want to display the Menu Cart"
+msgstr "Selecteer de menus waarin u de Menu Cart wilt weergeven"
+
+#: includes/class-wpmenucart-settings.php:162
+msgid "Always display cart"
+msgstr "Laat altijd zien"
+
+#: includes/class-wpmenucart-settings.php:169
+msgid "Always display cart, even if it's empty."
+msgstr "Laat winkelwagen altijd zien, ook als deze leeg is."
+
+#: includes/class-wpmenucart-settings.php:175
+msgid "Use Flyout"
+msgstr "Flyout inschakelen"
+
+#: includes/class-wpmenucart-settings.php:182
+msgid "Select to display cart contents in menu fly-out."
+msgstr "Selecteer om de inhoud van de winkelwagen in de fly-out te laten zien"
+
+#: includes/class-wpmenucart-settings.php:188
+msgid "Flyout item truncation"
+msgstr "Tekstafbreking van flyout items"
+
+#: includes/class-wpmenucart-settings.php:197
+msgid ""
+"Maximum number of characters for product names in the flyout. To use full "
+"product names, enter 0."
+msgstr ""
+"Maximum aantal karakters voor productnamen in de flyout. Voer 0 in om de "
+"volledige productnamen te gebruiken."
+
+#: includes/class-wpmenucart-settings.php:203
+msgid "Flyout item number"
+msgstr "Aantal items in flyout"
+
+#: includes/class-wpmenucart-settings.php:211
+msgid "Unlimited"
+msgstr "Ongelimiteerd"
+
+#: includes/class-wpmenucart-settings.php:223
+msgid "Set maximum number of products to display in fly-out."
+msgstr "Stel het maximum aantal producten in om weer te geven in de fly-out."
+
+#: includes/class-wpmenucart-settings.php:229
+msgid "Display shopping cart icon."
+msgstr "Geef winkelwagen icoon weer."
+
+#: includes/class-wpmenucart-settings.php:241
+msgid "Choose a cart icon."
+msgstr "Kies een winkelwagen icoon."
+
+#: includes/class-wpmenucart-settings.php:269
+msgid "Custom Icon"
+msgstr "Aangepast icoon"
+
+#: includes/class-wpmenucart-settings.php:276
+msgid ""
+"Upload a custom menu cart icon here if you do not want to use one of the "
+"icons above. Make sure you resize the icon before uploading. Icon should "
+"usually be 15-30px tall."
+msgstr ""
+"Upload hier een aangepast icoon als u de bovenstaande icoontjes niet wilt "
+"gebruiken. Vergeet niet om het icoon op de juiste maat te schalen voor het "
+"uploaden - voor de meeste sites wordt 15-30px geadviseerd"
+
+#: includes/class-wpmenucart-settings.php:277
+msgid "Select or upload a custom menu cart icon."
+msgstr "Kies of upload een aangepast menu cart icoon."
+
+#: includes/class-wpmenucart-settings.php:278
+msgid "Set image"
+msgstr "Stel afbeelding in"
+
+#: includes/class-wpmenucart-settings.php:279
+msgid "Remove image"
+msgstr "Afbeelding Verwijderen"
+
+#: includes/class-wpmenucart-settings.php:285
+msgid "Contents of the menu cart item"
+msgstr "Inhoud van het menu cart item"
+
+#: includes/class-wpmenucart-settings.php:293
+msgid "Items Only."
+msgstr "Alleen artikelen."
+
+#: includes/class-wpmenucart-settings.php:294
+msgid "Price Only."
+msgstr "Alleen prijs."
+
+#: includes/class-wpmenucart-settings.php:295
+msgid "Both price and items."
+msgstr "Zowel de prijs als artikelen."
+
+#: includes/class-wpmenucart-settings.php:296
+msgid "Custom:"
+msgstr "Aangepast:"
+
+#: includes/class-wpmenucart-settings.php:305
+msgid ""
+"You can use the following placeholders: {{icon}}, {{# items}}, {{#}}, "
+"{{items}}, {{price}}"
+msgstr ""
+"Je kunt gebruik maken van de volgende placeholders: {{icon}}, {{# items}}, "
+"{{#}}, {{items}}, {{price}}"
+
+#: includes/class-wpmenucart-settings.php:313
+msgid "Select the alignment that looks best with your menu."
+msgstr "Selecteer de uitlijning die er het beste uit ziet met uw menu."
+
+#: includes/class-wpmenucart-settings.php:321
+msgid "Align Left."
+msgstr "Links uitlijnen."
+
+#: includes/class-wpmenucart-settings.php:322
+msgid "Align Right."
+msgstr "Rechts uitlijnen."
+
+#: includes/class-wpmenucart-settings.php:323
+msgid "Default Menu Alignment."
+msgstr "Standaard menu uitlijning."
+
+#: includes/class-wpmenucart-settings.php:331
+msgid "Price to display"
+msgstr "Prijs weergave"
+
+#: includes/class-wpmenucart-settings.php:339
+msgid "Cart total (including discounts)"
+msgstr "Winkelwagen totaal (inclusief kortingen)"
+
+#: includes/class-wpmenucart-settings.php:340
+msgid "Subtotal (total of products)"
+msgstr "Subtotaal (totaal van producten)"
+
+#: includes/class-wpmenucart-settings.php:365
+msgid "Use custom AJAX"
+msgstr "Gebruik aangepaste AJAX"
+
+#: includes/class-wpmenucart-settings.php:372
+msgid ""
+"Enable this option to use the custom AJAX / live update functions instead of "
+"the default ones from your shop plugin. Only use when you have issues with "
+"AJAX!"
+msgstr ""
+"Schakel deze optie in om aangepaste AJAX / live update functies te gebruiken "
+"in plaats van de standaard functies van uw shop plugin. Alleen inschakelen "
+"wanneer u problemen met AJAX ondervindt!"
+
+#: includes/class-wpmenucart-settings.php:397
+msgid "Texts"
+msgstr "Teksten"
+
+#: includes/class-wpmenucart-settings.php:404
+msgid "Empty cart (main item hover)"
+msgstr "Lege winkelwagen (hoofdmenu item hover)"
+
+#: includes/class-wpmenucart-settings.php:415
+#: includes/class-wpmenucart-settings.php:432
+#: includes/class-wpmenucart-settings.php:449
+#: includes/class-wpmenucart-settings.php:479
+#: includes/class-wpmenucart-settings.php:505
+#: includes/class-wpmenucart-settings.php:522
+msgid "Leave empty for default"
+msgstr "Laat leeg voor standaardinstelling"
+
+#: includes/class-wpmenucart-settings.php:421
+msgid "Empty cart (flyout)"
+msgstr "Lege winkelwagen (flyout)"
+
+#: includes/class-wpmenucart-settings.php:438
+msgid "View cart (main item hover & flyout)"
+msgstr "Bekijk winkelwagen (hoofdmenu item hover & flyout)"
+
+#: includes/class-wpmenucart-settings.php:455
+msgid "Items"
+msgstr "Artikelen"
+
+#: includes/class-wpmenucart-settings.php:465
+msgid "Single"
+msgstr "Enkelvoud"
+
+#: includes/class-wpmenucart-settings.php:472
+msgid "Plural & zero"
+msgstr "Meervoud & nul"
+
+#: includes/class-wpmenucart-settings.php:487
+msgid "Links"
+msgstr "Links"
+
+#: includes/class-wpmenucart-settings.php:494
+msgid "Cart URL"
+msgstr "Winkelwagen URL"
+
+#: includes/class-wpmenucart-settings.php:511
+msgid "Shop URL"
+msgstr "Webwinkel URL"
+
+#: includes/class-wpmenucart-settings.php:547
+msgid "Additional CSS classes"
+msgstr "Extra CSS-classes"
+
+#: includes/class-wpmenucart-settings.php:554
+msgid "Main menu item (li)"
+msgstr "Hoofdmenu-item (li)"
+
+#: includes/class-wpmenucart-settings.php:567
+msgid "Main menu item (a)"
+msgstr "Hoofdmenu-item (a)"
+
+#: includes/class-wpmenucart-settings.php:580
+msgid "Flyout (ul)"
+msgstr "Flyout (ul)"
+
+#: includes/class-wpmenucart-settings.php:593
+msgid "Flyout item (li)"
+msgstr "Flyout item (li)"
+
+#: includes/class-wpmenucart-settings.php:606
+msgid "Flyout item (a)"
+msgstr "Flyout item (a)"
+
+#: includes/class-wpmenucart-settings.php:620
+msgid "Misc"
+msgstr "Diversen"
+
+#: includes/class-wpmenucart-settings.php:627
+msgid "Custom styles"
+msgstr "Aangepaste stijlen"
+
+#: includes/compatibility/class-wc-core-compatibility.php:222
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: includes/shops/wpmenucart-eshop-pro.php:48
+#: includes/shops/wpmenucart-eshop.php:40
+#, php-format
+msgid "%1$s%2$s"
+msgstr ""
+
+#: includes/shops/wpmenucart-eshop-pro.php:48
+#: includes/shops/wpmenucart-eshop.php:40
+msgid "2"
+msgstr ""
+
+#: wp-menu-cart-pro.php:343
+msgid ""
+"WP Menu Cart Pro could not detect an active shop plugin. Make sure you have "
+"activated at least one of the supported plugins."
+msgstr ""
+"WP Menu Cart Pro kon geen actieve webshop plugin detecteren. Zorg ervoor dat "
+"u ten minste één van de ondersteunde plugins hebt geactiveerd."
+
+#: wp-menu-cart-pro.php:344
+msgid "Hide this notice"
+msgstr "Verberg dit bericht"
+
+#: wp-menu-cart-pro.php:348
+msgid ""
+"An old version of WooCommerce Menu Cart is currently activated, you need to "
+"disable or uninstall it for WP Menu Cart to function properly"
+msgstr ""
+"Een oude versie van WooCommerce Menu Cart is momenteel geactiveerd, deze "
+"moet u uitschakelen of verwijderen om WP Menu Cart Pro goed te laten "
+"functioneren"
+
+#: wp-menu-cart-pro.php:354
+msgid ""
+"The free version of WP Menu Cart is currently activated, you need to disable "
+"or uninstall it for WP Menu Cart Pro to function properly"
+msgstr ""
+"De gratis versie van WP Menu Cart is momenteel geactiveerd, deze moet u "
+"uitschakelen of te verwijderen om WP Menu Cart Pro goed te laten functioneren"
+
+#: wp-menu-cart-pro.php:364
+msgid ""
+"WP Menu Cart Pro requires PHP 5.3 or higher (5.6 or higher recommended)."
+msgstr "WP Menu Cart Pro vereist PHP 5.3 of hoger (5.6 of hoger aanbevolen)."
+
+#: wp-menu-cart-pro.php:365
+msgid "How to update your PHP version"
+msgstr "Hoe update ik mijn PHP versie?"
+
+#~ msgid "What would you like to display in the menu?"
+#~ msgstr "Wat zou u willen weergeven in het menu?"
+
+#~ msgid ""
+#~ "WooCommerce Menu Cart depends on <a href=\"%s\">WooCommerce</a> to work!"
+#~ msgstr ""
+#~ "WooCommerce Menu Cart heeft <a href=\"%s\">WooCommerce</a> om te kunnen "
+#~ "functioneren!"
+
+#~ msgid "Display Flyout."
+#~ msgstr "Geef flyout weer."
+
+#~ msgid "Set the name of the menu you want to display"
+#~ msgstr ""
+#~ "Voer de naam in van het menu waarin je het winkelwagentje wilt weergeven"
+
+#~ msgid ""
+#~ "Let's keep this simple! Just check the boxes next to the features you "
+#~ "want."
+#~ msgstr ""
+#~ "Super eenvoudig: geef simpelweg de vakjes naast de features zoals jij ze "
+#~ "wilt gebruiken een vinkje."
+
+#~ msgid "Save Changes"
+#~ msgstr "Opslaan"
