@@ -22,3 +22,4 @@ jobs:
           port: ${{ secrets.FTP_PORT }}
           local_path: "./"
           remote_path: "/html/wp-content/"
+          sftp_only: true
