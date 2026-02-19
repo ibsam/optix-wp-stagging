@@ -1,4 +1,4 @@
-name: Deploy to GoDaddy Staging
+name: Deploy WP Content to GoDaddy Staging
 
 on:
   push:
@@ -6,11 +6,11 @@ on:
       - main
 
 jobs:
-  ftp-deploy:
+  deploy:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout code
+      - name: Checkout Repository
         uses: actions/checkout@v4
 
       - name: Deploy via SFTP
@@ -20,6 +20,5 @@ jobs:
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
           port: ${{ secrets.FTP_PORT }}
-          protocol: ftp
-          local-dir: ./
-          server-dir: /html/wp-content/
+          local_path: "./"
+          remote_path: "/html/wp-content/"
