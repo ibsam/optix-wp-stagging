@@ -20,7 +20,7 @@ jobs:
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
           port: ${{ secrets.FTP_PORT }}
-          protocol: sftp
           local-dir: ./
           server-dir: /html/wp-content/
+          sftp_only: true
           dangerous-clean-slate: false
